@@ -1,5 +1,5 @@
-# AI-CHATBOT
-#CELL-1
+## AI-CHATBOT-FOR-COLLEGE-ERP
+# CELL-1
 
 Installation of Required Libraries
 In this cell, we install the necessary Python libraries required to build the College ERP AI Chatbot system.
@@ -15,7 +15,7 @@ Pandas is a data analysis library used to store and manage structured data. In t
 
 These libraries are technical foundation of our project.
 
-#CELL-2
+# CELL-2
 
 Creating the streamlit app
 This cell creates the main application file (app.py) which contains the whole chatbot program.
@@ -84,7 +84,7 @@ If attendance is below 75%, it tells the student to improve attendance.
 
 If marks are below 35, it tells the student to improve marks.
 
-#CELL-3
+# CELL-3
 
 Deployment using Ngrok
 Google Colab does not allow direct hosting of web servers.
