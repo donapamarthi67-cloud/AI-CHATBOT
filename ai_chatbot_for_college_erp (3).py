@@ -122,7 +122,7 @@ def chatbot_response(query, roll_no):
 from pyngrok import ngrok
 
 # 🔑 Paste your FULL authtoken here
-ngrok.set_auth_token("3AHurhClNyhPwNCU2ByZVc3H3aV_4CjP7ugDGaFwUjYeXGu4H")
+ngrok.set_auth_token("TOKEN HERE")
 
 !streamlit run app.py &>/dev/null &
 
